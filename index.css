@@ -55,6 +55,9 @@ footer{
 }
 .icons{
     padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .icons a{
     margin: 10px;

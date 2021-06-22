@@ -63,6 +63,10 @@ footer{
     margin: 10px;
 }
 @media only screen and (max-width:600px){
+  article {
+    padding:5px;
+    margin:5px;
+}
     img{
         width: 400px;
         height: 300px;
@@ -92,6 +96,10 @@ footer{
     }
 }
 @media only screen and (max-width:400px){
+article {
+ padding:5px;
+margin:5px;
+}
     img{
         width: 300px;
     } 
